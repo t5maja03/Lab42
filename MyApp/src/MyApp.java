@@ -6,7 +6,7 @@
 
 /**
  *
- * @author jarno
+ * @author Jarno Mattila
  */
 public class MyApp {
 
